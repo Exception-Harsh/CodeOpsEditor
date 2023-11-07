@@ -11,7 +11,7 @@ export default function Login() {
         <>
             <div>
                 <Head>
-                    <title>CodeOpsEditor | Log In</title>
+                    <title>CodeEZ | Log In</title>
                 </Head>
 
                 <section className="signup-box container mx-auto flex flex-col justify-center items-center">

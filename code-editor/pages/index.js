@@ -12,7 +12,7 @@ export default function Home() {
     <>
       <div>
         <Head>
-          <title>CodeOpsEditor | Online Free Code Editor for Cloud</title>
+          <title>CodeEZ | Online Free Code Editor</title>
         </Head>
         <HeroSection />
         <Features />
