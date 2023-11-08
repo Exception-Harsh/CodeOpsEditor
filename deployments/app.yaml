@@ -1,7 +1,7 @@
 apiVersion: core.oam.dev/v1beta1
 kind: Application
 metadata:
-  name: CodeOpsEditor
+  name: CodeEZ
 spec:
   components:
     - name: frontend
