@@ -31,7 +31,7 @@ export default function Navbar() {
                     <Link
                         href="/" className="flex flex-row gap-1 title-font font-semibold text-3xl text-gray-900"
                     >
-                        <AiFillCloud className="mt-1 text-4xl" /> CodeOpsEditor
+                        <AiFillCloud className="mt-1 text-4xl" /> CodeEZ
                     </Link>
                     {/* <ul className={mobile ? "navlinks" : "navlinksmobile"}
                         onClick={() => setMobile(true)} > */}
